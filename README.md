@@ -13,6 +13,10 @@
 <br>
 <br>
 🎋 react, Algorithm 공부중
-<br><br>
+<br>
 🥇 I'm majored in English
+<br><br>
+**Experience**
+🎉 IT BANK (2021.02 ~ 2021.08)
+
 
