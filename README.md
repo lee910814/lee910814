@@ -17,6 +17,7 @@
 🥇 I'm majored in English
 <br><br>
 **Experience**
+<br><br>
 🎉 IT BANK (2021.02 ~ 2021.08)
 
 
