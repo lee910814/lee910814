@@ -13,6 +13,6 @@
 <br>
 <br>
 🎋 react, Algorithm 공부중
-<br>
+<br><br>
 🥇 I'm majored in English
 
