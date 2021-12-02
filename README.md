@@ -10,6 +10,8 @@
 <br>
 **Who Am l**
 <br>
+<br>
 🎋 react, Algorithm 공부중
+<br>
 🥇 I'm majored in English
 
