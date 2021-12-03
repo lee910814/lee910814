@@ -18,6 +18,6 @@
 <br><br>
 **Experience**
 <br><br>
-🎉 IT BANK (2021.02 ~ 2021.08)
+🎉 IT BANK (java, jsp, jquery, spring)(2021.02 ~ 2021.08)
 
 
