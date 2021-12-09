@@ -12,7 +12,7 @@
 **Who Am l**
 <br>
 <br>
-🎋 react, Algorithm 공부중
+🎋 javascript, react, Algorithm 등 공부중
 <br>
 🥇 I'm majored in English
 <br><br>
