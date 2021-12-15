@@ -10,14 +10,18 @@
 <br>
 <br>
 **Who Am l**
+반갑습니다. 이의정입니다.
 <br>
 <br>
-🎋 javascript, react, Algorithm 등 공부중
+🎋 javascript, react, Algorithm, cs지식 등 공부중
 <br>
 🥇 I'm majored in English
 <br><br>
 **Experience**
 <br><br>
 🎉 IT BANK (java, jsp, jquery, spring)(2021.02 ~ 2021.08)
+<br/><br/>
+
+
 
 
