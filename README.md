@@ -14,7 +14,7 @@
 반갑습니다. 이의정입니다.
 <br>
 <br>
-🎋 python,django, Algorithm, cs지식 등 공부중
+🎋 python,django, Algorithm, cs지식, MySQL등 공부중
 <br>
 🥇 I'm majored in English
 <br><br>
