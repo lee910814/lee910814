@@ -21,7 +21,7 @@
 <br><br>
 **Experience**
 <br><br>
-🎉 IT BANK (java, jsp, jquery, spring)(2021.02 ~ 2021.08)
+🎉 IT BANK (java, jsp, jquery, spring)(2021.02 ~ 2021.08)</n>
 🎉 SK네트웍스 Fmaily AI 캠프 (2025.09.24 ~ 2026.03.31)
 
 <br/><br/>
